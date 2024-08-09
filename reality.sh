@@ -2,7 +2,7 @@
 
 # 函数用于安装 vless-reality
 install_vless_reality() {
-    curl -sS -o vless-reality.sh https://raw.githubusercontent.com/passeway/reality/main/vless-reality.sh && chmod +x vless-reality.sh && ./vless-reality.sh
+    curl -sS -o vless-reality.sh https://raw.githubusercontent.com/A1me7n/reality/main/vless-reality.sh && chmod +x vless-reality.sh && ./vless-reality.sh
 }
 
 # 函数用于卸载 vless-reality
