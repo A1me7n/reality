@@ -83,7 +83,7 @@ reconfig() {
                     "privateKey": "${rePrivateKey}",
                     "shortIds": [
                         "",
-                        "123abc"
+                        "1r2315gehtrj3gfabc"
                     ]
                 }
             },
